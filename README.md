@@ -18,4 +18,4 @@ This notebook is divided into the following parts which basically follow the gen
 
 7. **Results**: I will compare models' performance and use the best model to predict the test dataset.
 
-**For the final model, I chose the XGBoost Classifier which had an accuracy score of 84.92% on the training dataset. I used this model to predict the survival status for people in the test set, and the final accuracy score was 77%. Considering the fact that I finished this project in less than 2 days, I am pretty satisfied with the score. There are probably some more feature engineering I could do to improve the final score!**
+**For the final model, I chose the XGBoost Classifier which had an accuracy score of 84.92% on the training dataset. I used this model to predict the survival status for people in the test set, and the final accuracy score was 77%. Considering the fact that I just started learning data science and finished this project in less than a week, I am pretty satisfied with the score. There are probably some more feature engineering I could do to improve the final score!**
